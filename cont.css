@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    background-image:url(screenshots/%D1%842.avif);
+        
+ background-size:cover;
+    background-repeat: no-repeat;
+}
+.header {
+  background-color: whitesmoke;
+  height: 16vh;
+  margin-bottom: 0;
+}
+
+.hMargin {
+  margin-left: 50px;
+  margin-right: 1800px;
+}
+
+.header-line {
+  display: flex;
+  padding-top: 20px;
+}
+
+.pages {
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+
+.logo {
+  margin-left: 25px;
+  margin-right: 900px;
+}
+
+.pages a {
+  color: black;
+  margin-left: 25px;
+  font-size: 25px;
+}
+.cont{
+   display: flex;
+   
+    margin: 100px 425px;
+} 
+.help{
+    
+    
+   padding: 15px; 
+   margin-right:  685px;
+     width 40%;
+   
+    background-color: mediumseagreen;
+    
+}

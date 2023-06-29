@@ -1,0 +1,106 @@
+body{
+    
+    
+    margin: 0;
+}
+.header {
+  background-color: whitesmoke;
+  height: 16vh;
+  margin: 0;
+    
+}
+
+.hMargin {
+  margin-left: 50px;
+  margin-right: 1800px;
+}
+
+.header-line {
+  display: flex;
+  padding-top: 20px;
+}
+
+.pages {
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+
+.logo {
+  margin-left: 25px;
+  margin-right: 900px;
+}
+
+.pages a {
+  color: black;
+  margin-left: 25px;
+  font-size: 25px;
+}
+.achiev{
+    background-color: white;
+    
+    margin-left: 1%;
+    
+    width: 32%;
+    
+}
+
+.pict1{
+    display: flex;
+   
+    margin: 50px 150px;
+}
+.pict1Title{
+    display: flex;
+    justify-content: center;
+   margin: 50px;
+}
+
+.pict1Desc{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+   
+    width="50px" height="50px"
+}
+
+.Aholder   {
+    
+    display: flex;}
+
+.function{
+ background-color:darkgrey;
+  height: 40vh;
+  margin: 0px ;
+    
+        display: flex;
+    }
+.text{
+    width: 550px;
+    justify-content: center;
+}
+.text1{
+    margin-left: 15px;
+    width: 550px;
+   font-size: 35px;
+   
+    justify-content: center;}
+.image{
+    margin: 0 1%;
+    width: 650px;
+    height:100%;
+}
+.pict1Title{
+    
+   font-size: 25px; 
+}
+   .pict1{
+    display: flex;
+   margin-left:200px;
+    
+}
+.colorM:hover{
+    transition: color 0.3s linear;
+    color:red;
+}

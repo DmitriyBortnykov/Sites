@@ -1,0 +1,82 @@
+body{
+  
+    margin: 0px;
+    background-color: aliceblue;
+    height: 100vh;
+}
+.header {
+  background-color: whitesmoke;
+  height: 14vh;
+  margin-bottom: 0;
+}
+.hMargin {
+  margin-left: 50px;
+  margin-right: 1800px;
+}
+
+.header-line {
+  display: flex;
+  padding-top: 10px;
+}
+
+.pages {
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+.logo {
+  margin-left: 25px;
+  margin-right:900px;
+}
+
+.pages a {
+  color: black;
+  margin-left: 25px;
+  font-size: 25px;
+}
+.blocks{
+   display: flex; 
+    
+  color:whitesmoke;
+    
+}
+.states{
+    width: 25%;
+   background-color: darkslategray;
+    margin:0 2.5% ; 
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-bottom: 5px;
+}
+.news{
+    width: 40%;
+   background-color: darkslategray;
+    
+     padding: 15px;
+   margin-bottom: 5px;
+    font-size: 20px;
+}
+.st1{
+    
+     margin-left: 2.5%;
+}
+
+.st2{
+    margin-right: 2.5%;
+}
+h7{
+        
+   text-align: center;
+
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+h1{
+    padding: 10px 40%;
+   margin-bottom: 10px;
+}
+.colorM:hover{
+    transition: color 0.3s linear;
+    color:red;
+}

@@ -1,0 +1,117 @@
+body{
+    background-image: url(screenshots/%D1%84%D0%BE%D0%BD.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+    height:130vh;
+    margin: 0px;
+    
+}
+
+.header {
+  background-color: whitesmoke;
+  height: 16vh;
+  margin-bottom: 0;
+}
+
+.hMargin {
+  margin-left: 50px;
+  margin-right: 1800px;
+}
+
+.header-line {
+  display: flex;
+  padding-top: 20px;
+}
+
+.pages {
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+
+.logo {
+  margin-left: 25px;
+  margin-right: 900px;
+}
+
+.pages a {
+  color: black;
+  margin-left: 25px;
+  font-size: 25px;
+}
+
+.h2 {
+  font-size: 25px;
+  color: white;
+  margin: 20px;
+}
+
+.h3 {
+  font-size: 35px;
+  color: navajowhite;
+  list-style-position: outside;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
+ul {
+  font-size: 25px;
+  color: navajowhite;
+  list-style: none;
+  padding-left: 0;
+}
+
+.h4 {
+  margin-top: 150px;
+    margin-bottom: 50px;
+    
+  font-size: 45px;
+  color: navajowhite;
+  
+}
+
+.h5 {
+  
+  font-size: 35px;
+  color: navajowhite;
+  list-style-position: outside;
+}
+.h6 {
+  
+  font-size: 65px;
+  color: navajowhite;
+  margin-bottom: 50px;
+} 
+.btn{
+    
+    margin: 150px 660px;
+    font-weight: 700;
+}
+
+.button2{
+    background-color: orange;
+    padding:14px 18px;
+    color:white;
+    
+       
+}
+.button1{
+    background-color: orange;
+    padding:14px 18px;
+    color:white;
+    margin-left: 50px;
+}
+.button3{
+    background-color: orange;
+    padding:14px 18px;
+    color:white;
+    margin-left: 50px;
+}
+.button3:hover,.button2:hover,.button1:hover,.colorM:hover{
+    transition: color 0.3s linear;
+    color:red;
+}
