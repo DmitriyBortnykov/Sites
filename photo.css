@@ -219,7 +219,7 @@ body {
 }
 
 .slide3 {
-  background-image: url(main.sl3.jpg);
+  background-image: url(sl3.jpg);
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -227,7 +227,7 @@ body {
 }
 
 .slide4 {
-  background-image: url(main.sl7.jpg);
+  background-image: url(sl7.jpg);
   background-size: cover;
   background-position: center;
   width: 100%;
