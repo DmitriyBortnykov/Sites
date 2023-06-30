@@ -109,7 +109,7 @@ body {
 	width: inherit;
 }
 
-.slide1 { background-image: url(mIN.sl1.jpg); }
+.slide1 { background-image: url(main.sl1.jpg); }
 .slide2 { background-image: url(main.sl2.jpg); }
 .slide3 { background-image: url(main.sl3.jpg); }
 .slide4 { background-image: url(main.sl4.jpg); }
@@ -235,7 +235,7 @@ body {
 }
 
 .slide5 {
-  background-image: url(main/sl6.jpg);
+  background-image: url(main.sl6.jpg);
   background-size: cover;
   background-position: center;
   width: 100%;
