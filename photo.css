@@ -203,7 +203,7 @@ body {
 	transform: scale(1);
 } 
 .slide1 {
-  background-image: url(main/sl1.jpg);
+  background-image: url(/main/sl1.jpg);
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -211,7 +211,7 @@ body {
 }
 
 .slide2 {
-  background-image: url(main.sl2.jpg);
+  background-image: url(/main.sl2.jpg);
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -219,7 +219,7 @@ body {
 }
 
 .slide3 {
-  background-image: url(main/sl3/jpg);
+  background-image: url(/main/sl3/jpg);
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -227,7 +227,7 @@ body {
 }
 
 .slide4 {
-  background-image: url(main.sl7.JPG);
+  background-image: url(/main/sl7/jpg);
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -235,7 +235,7 @@ body {
 }
 
 .slide5 {
-  background-image: url(main/sl6.JPG);
+  background-image: url(main/sl6/jpg);
   background-size: cover;
   background-position: center;
   width: 100%;
