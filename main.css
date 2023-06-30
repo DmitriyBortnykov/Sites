@@ -1,8 +1,8 @@
-body{
+.body{
     background-image: url(main/фон.jpg);
     background-size:cover;
     background-repeat: no-repeat;
-    background-color: green;
+    
     height:130vh;
     margin: 0px;
     
